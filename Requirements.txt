@@ -1,0 +1,1 @@
+Database for artist accounts, Website hosting for site, Interface to interact with database for accounts and songs
